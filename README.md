@@ -1,5 +1,6 @@
-###Seja bem-vindo(a) ao meu perfil!!! 👋
-### Graduando em Gestão da Tecnologia da Informação(3/5), Desenvolvedor Web Frontend!!!
+ 
+# Seja bem-vindo(a) ao meu perfil.
+## Graduando em Gestão da Tecnologia da Informação(3/5), Desenvolvedor Web Frontend!!!
 ## Apaixonado por tecnologia e pessoas. 
 <div>
   <a href="https://github.com/nandosti">
