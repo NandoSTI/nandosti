@@ -16,6 +16,9 @@
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Vue" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img align="center" alt="Git" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+          
 </div>
  
  <br>
