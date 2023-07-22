@@ -3,7 +3,7 @@
 ## Graduando em Gestão da Tecnologia da Informação(3/5)
 ## Desenvolvedor Web Frontend.
 ## Aluno DEVQUEST
-#### Apaixonado por tecnologia, pessoas e café. 
+#### Apaixonado por tecnologia, música, pessoas e café. 
 <div>
   <a href="https://github.com/nandosti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandosti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
